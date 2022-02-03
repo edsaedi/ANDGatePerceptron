@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Perceptron Hill Climbing Class">
+      <HintPath>..\..\..\Perceptron-Class-Hill-Climbing\Perceptron Hill Climbing Class\Perceptron Hill Climbing Class\bin\Debug\netcoreapp3.1\Perceptron Hill Climbing Class.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
