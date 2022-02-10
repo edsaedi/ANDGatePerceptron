@@ -9,6 +9,9 @@
     <Reference Include="Perceptron Hill Climbing Class">
       <HintPath>..\..\..\Perceptron-Class-Hill-Climbing\Perceptron Hill Climbing Class\Perceptron Hill Climbing Class\bin\Debug\netcoreapp3.1\Perceptron Hill Climbing Class.dll</HintPath>
     </Reference>
+    <Reference Include="PerceptronHillClimberLibrary">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2019\Projects\PerceptronHillClimberLibrary\PerceptronHillClimberLibrary\bin\Debug\netcoreapp3.1\PerceptronHillClimberLibrary.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

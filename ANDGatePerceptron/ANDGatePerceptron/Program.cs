@@ -1,6 +1,6 @@
 ﻿using System;
 
-using Perceptron_Hill_Climbing_Class;
+using PerceptronHillClimberLibrary;
 
 namespace ANDGatePerceptron
 {
@@ -14,7 +14,7 @@ namespace ANDGatePerceptron
         public static (double[][] inputs, double[] outputs) AndInOut()
         {
             double[][] inputs = new double[][] { new double[] { 0, 0 }, new double[] { 1, 0 }, new double[] { 0, 1 }, new double[] { 1, 1 } };
-            double[] outputs = new double[] { 0, 0, 0, 1 };
+            double[] outputs = new double[] { -1, -1, 0, 1 };
             return (inputs, outputs);
         }
 
